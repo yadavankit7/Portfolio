@@ -14,21 +14,21 @@ export const projectsData: Project[] = [
     id: 1,
     title: "E-Commerce Dashboard",
     description: "A comprehensive dashboard for e-commerce store owners with real-time analytics and inventory management.",
-    image: "https://images.pexels.com/photos/8391815/pexels-photo-8391815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "/img/fashion.png",
     category: "web",
-    technologies: ["React", "TypeScript", "Tailwind CSS", "Chart.js", "Firebase"],
-    github: "https://github.com",
-    liveDemo: "https://example.com"
+    technologies: ["HTML", " CSS", "JavaScript"],
+    github: "https://github.com/yadavankit7",
+    liveDemo: "https://scottie-zeta.vercel.app/"
   },
   {
     id: 2,
     title: "Task Management App",
     description: "A Kanban-style task management application with drag-and-drop functionality and team collaboration features.",
-    image: "https://images.pexels.com/photos/6956527/pexels-photo-6956527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "/img/task.png",
     category: "web",
-    technologies: ["React", "Redux", "Material UI", "Node.js", "MongoDB"],
-    github: "https://github.com",
-    liveDemo: "https://example.com"
+    technologies: ["React.js", "Node.js", "Tailwind CSS", "MongoDB"],
+    github: "https://github.com/yadavankit7",
+    liveDemo: "https://smarttasker.vercel.app/"
   },
   {
     id: 3,
