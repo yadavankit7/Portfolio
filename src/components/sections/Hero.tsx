@@ -43,17 +43,13 @@ const Hero = () => {
           </div>
           
           <div className="mt-12 flex items-center justify-center space-x-6 animate-fade-in-up animation-delay-800">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
+            <a href="https://github.com/yadavankit7" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
               <Github size={24} />
               <span className="sr-only">GitHub</span>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
+            <a href="https://www.linkedin.com/in/ankit-yadav-905827256" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
               <Linkedin size={24} />
               <span className="sr-only">LinkedIn</span>
-            </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
-              <Twitter size={24} />
-              <span className="sr-only">Twitter</span>
             </a>
           </div>
         </div>

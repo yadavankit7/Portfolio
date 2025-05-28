@@ -93,7 +93,7 @@ const Contact = () => {
                       Phone
                     </h4>
                     <a 
-                      href="tel:+1234567890" 
+                      href="tel:+91 70210 52580" 
                       className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors"
                     >
                       +91 70210 52580
