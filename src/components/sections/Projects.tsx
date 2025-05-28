@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ExternalLink, Github } from 'lucide-react';
-import { projectsData } from '../../data/projectsData';
+import { projectsData } from "../../data/skillsData";
 import Button from '../ui/Button';
 
 const Projects = () => {
