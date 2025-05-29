@@ -33,13 +33,13 @@ export const projectsData: Project[] = [
   },
   {
     id: 3,
-    title: "Travel Blog",
-    description: "A responsive travel blog with dynamic content loading, image galleries, and user authentication.",
+    title: "Landing Page",
+    description: "A modern, responsive landing page designed to showcase products or services with a clean and engaging layout.",
     image: "https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "web",
-    technologies: ["Next.js", "SCSS", "Prisma", "PostgreSQL", "Vercel"],
-    github: "https://github.com",
-    liveDemo: "https://example.com"
+    technologies: ["html", "CSS" , "Vercel"],
+    github: "https://github.com/yadavankit7",
+    liveDemo: "https://landing-page-2onm.vercel.app/"
   },
   {
     id: 4,
