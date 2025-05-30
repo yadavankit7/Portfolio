@@ -137,7 +137,7 @@ const Projects = () => {
         </div>
         
         <div className="mt-16 text-center">
-          <Button href="https://github.com" target="_blank" variant="outline" size="lg">
+          <Button href="https://github.com/yadavankit7" target="_blank" variant="outline" size="lg">
             View More Projects
             <Github className="ml-2" size={18} />
           </Button>
